@@ -30,8 +30,7 @@ Você pode conferir o design da interface no [link do Figma](https://www.figma.c
 
 ## Preview
 
-![preview]
-
+![Preview ConnectezVous](https://github.com/GustavLira/Connectez-Vous/assets/140671152/d79fbc9b-f572-40a8-b318-90ddacf75212)
 
 ## Deploy
 
